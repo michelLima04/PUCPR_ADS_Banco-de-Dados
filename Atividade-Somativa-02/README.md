@@ -33,7 +33,7 @@ Toda a execução prática e escrita de código do projeto foi desenvolvida por 
 * **DQL (Data Query Language):** Construção de consultas otimizadas utilizando `INNER JOIN` para unificar informações de Vinhos, Vinícolas e Regiões em uma única extração.
 * **DCL (Data Control Language):** Implementação de regras de segurança, criando o usuário `sommelier` com limite de tráfego (`MAX_QUERIES_PER_HOUR`) e restrição de acesso a tabelas e colunas específicas via comandos `GRANT`.
 
-📁 **Confira o script SQL completo:** **[Modelo-Fisico.sql](./src/atv2_Modelo-Fisico.sql)**
+📁 **Confira o script SQL completo:** **[Modelo-Fisico.sql](./atv2_Modelo-Fisico.sql)**
 
 ## 🛠️ Tecnologias Utilizadas
 
