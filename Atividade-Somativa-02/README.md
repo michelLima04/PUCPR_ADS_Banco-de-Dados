@@ -10,6 +10,14 @@ O sistema gerencia:
 * **Vinhos:** Portfólio detalhado (tipo, safra, etc.) e a qual vinícola pertencem.
 * **Segurança:** Gerenciamento de permissões para usuários específicos (ex: Sommelier).
 
+## 🎯 Objetivos do Desafio
+
+Para validar o aprendizado, a atividade propôs os seguintes requisitos técnicos que foram implementados no script final:
+1. **Mapeamento de Integridade:** Garantir que um vinho não possa existir sem uma vinícola vinculada e que cada vinícola pertença a uma região válida.
+2. **Consultas Multitabelas:** Desenvolver um relatório que cruze dados das três tabelas principais para apresentar uma visão clara da origem de cada rótulo.
+3. **Administração de Banco de Dados:** Criar um perfil de usuário restrito para um "Sommelier", simulando um ambiente real de produção onde nem todo usuário pode deletar ou alterar dados sensíveis.
+4. **Governança de Dados:** Implementar limites de requisições por hora para o usuário criado, prevenindo sobrecarga no servidor.
+
 ## 🏗️ Estrutura e Desenvolvimento
 
 Para este projeto, as etapas de modelagem foram divididas da seguinte forma:
