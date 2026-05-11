@@ -8,11 +8,11 @@ O objetivo principal desta trilha foi dominar o ciclo de vida completo de um ban
 
 O repositório está organizado em desafios práticos que simulam cenários reais de mercado:
 
-### 1. [Atividade Somativa 1: Sistema de Delivery](./Atividade_01_Delivery/) 🍔
+### 1. [Atividade Somativa 1: Sistema de Delivery](./Atividade-Somativa-01/) 🍔
 * **Foco:** Ciclo completo de design de dados (Conceitual, Lógico e Físico).
 * **Destaque:** Mapeamento de requisitos de uma lanchonete, incluindo controle de cardápio, pedidos e logística de entregadores.
 
-### 2. [Atividade Somativa 2: Gestão Vitivinícola](./Atividade_02_Vinhos/) 🍷
+### 2. [Atividade Somativa 2: Gestão Vitivinícola](./Atividade-Somativa-02/) 🍷
 * **Foco:** SQL Avançado, Governança e Segurança.
 * **Destaque:** Implementação de um banco de dados para vinhos e vinícolas com foco em controle de privilégios de acesso (DCL) e limites de consultas por usuário.
 
