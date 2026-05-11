@@ -41,4 +41,4 @@ O script completo está disponível neste repositório no arquivo: 📁 **[Model
 ## 👨‍💻 Autor
 
 **Michel Urban Rosendo de Lima**
-Estudante de Análise e Desenvolvimento de Sistemas (2º Período/2026)
+Estudante de Análise e Desenvolvimento de Sistemas
