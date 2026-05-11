@@ -30,7 +30,7 @@ A implementação final foi realizada utilizando scripts SQL, incluindo:
 * **DML (Data Manipulation Language):** Inserção de dados de teste para validar a estrutura.
 * **DQL (Data Query Language):** Desenvolvimento de consultas específicas para extração de informações (ex: listagem de pedidos pendentes).
 
-O script completo está disponível neste repositório no arquivo: 📁 **[Modelo_Físico.sql](./Modelo-Fisico.sql)**
+O script completo está disponível neste repositório no arquivo: 📁 **[Modelo-Fisico.sql](./Modelo-Fisico.sql)**
 
 ## 🛠️ Tecnologias Utilizadas
 
